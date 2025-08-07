@@ -41,5 +41,4 @@ This project analyzes the usage, demand, and preferences of gift cards across th
 - Favorite Festival of using Gift Cards.
 ---
 
-## 📁 Project Structure
 
